@@ -6,7 +6,7 @@ This is a project repo for DATASCI266: Natural Language Processing project.
 This project delves into the topic of abstractive text summarization. We aim to create a model that can accurately summarize scholarly journal articles, specifically in the environmental sciences discipline. We use three state-of-the-art models, PEGASUS, FLAN-T5, and BART models and fine-tune them to compare model performances.
 
 ## Directory
--
+
 The below list explains the point of each folder and file within this repository:
 - dataset_to_df.ipynb: notebook used for the conversion of all files pulled from API into a single, cleaned file.
 - model_evaluation.ipynb: notebook used for the evaluation of all models and general EDA of model performance.
